@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VideoPlayer</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="select_file">Select file</string>
+    <string name="image_button_desc">This is the play and pause button for the video player.</string>
+    <string name="default_value">00:00</string>
+</resources>
